@@ -26,6 +26,7 @@ Anyone who is using the Track-N-Trace cloud app with mobile notifications.
 Steps to be followed
 =====================
 - Clone the "https://github.com/Track-n-Trace/quick-start-push.git" repository. To do this, from a command window, navigate to the directory on your computer in which you want to clone the repository, and then enter:
+	
 	git clone https://github.com/Track-n-Trace/quick-start-push.git
 
 - Install Android Studio (if you have already not done that)
