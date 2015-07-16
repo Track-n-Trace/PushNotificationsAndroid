@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-e42a1611bdeb6ddcf4c3dcb6b618affbfe70282c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-15434f6f82d4e8fb593d8932eec2b3cdd76ff695.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-e25776172691ae67d25644e4e3f5d8359756db0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-c9fa5ed4d83b58866162ef0450c7f2a57aab0d8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-b7de8e9e2a1dc9e02ac6aa95ee574bff41e859c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-3e07a0d3f598105605349f0d27e55f8a3483b711.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-1888ae890ea7a2da3ccf9922beea28e269754f28.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmcloudcode\1.0.1.20150311-1224\306322622d644814e0668b28f19b70e4b4b6c0ce\ibmcloudcode-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="306322622d644814e0668b28f19b70e4b4b6c0ce">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\ibmcloudcode-1.0.1.20150311-1224-463e25d2842d3a554b16972ff79e7108dc4c50f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-505b3dc30c1bae12fe78af0f6733e0543abf823a.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-cc971d57d39729a96173d265a2fda363db53cecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-030291bde0bb94ab33b0fddc34e4d5667817e54c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-390b60c0d6e8e92f94c7f93f86ab1d2534103850.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-47553964bdebace247de95d820637bb1398b8efc.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-f91f8f91d0bd8ab85e72c20eaabafdb6e004daba.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-19907c107066b0073c7e0adb04b4e1dd28a70948.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-4e88cee8bb39d8cf4150246a9110f59f2a1cdda8.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-7bee540e3cba85a90514db3f6f4dda3b1f854301.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmdata\1.0.1.20150311-1224\a589c20860ad3cdfa77ba4c6449cc1dda410d93\ibmdata-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a589c20860ad3cdfa77ba4c6449cc1dda410d93">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\ibmdata-1.0.1.20150311-1224-479c1f14b7823255dc07bcc810a46b27d04d883c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmbluemix\1.0.1.20150311-1224\7bdbbcf8f380f8dd86e62b8cc88f36eec2ad2914\ibmbluemix-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bdbbcf8f380f8dd86e62b8cc88f36eec2ad2914">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\ibmbluemix-1.0.1.20150311-1224-43778ea18f3854dd2b5de0967d4fce9f1ef98f4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-a96d7b8c5562078c1cee4b48561f8036fc0e6772.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-8fc8c0243e04c8d7ed7d2a23ccfb8747fe8e70fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-9a453ced3723fb2dad0aeb12c23d6b920871ba32.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-0822216830e0d0093adb8a5d53bffd30beb56219.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-506aaa2375287404d04060967cddfb3c87afb94e.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0bfd0449b21039c6056b150cf36eb5dce8ed28a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9c766507915adb2c7801e1bd91a5e7eb535d58e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c5880ebed5c5eef278b74b1323003dc32497f803.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-e1629fc16e7e0e281a4599fb87b38f0fdb38c845.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\classes-c5208340688171489dd8b8d57cbe426c46c10559.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmfilesync\1.0.1.20150311-1224\c9c2a97cdf54089bcc736b0589d299f3886c5257\ibmfilesync-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9c2a97cdf54089bcc736b0589d299f3886c5257">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\ibmfilesync-1.0.1.20150311-1224-c403452dd18234f410414cca0976697a23825b8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmpush\1.0.1.20150311-1224\1a3a205e878b1aa43036550c13cbfd05cdd76c56\ibmpush-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a3a205e878b1aa43036550c13cbfd05cdd76c56">
+        <dex dex="C:\Users\IBM_ADMIN\Downloads\mobilecloud_quickstart-push-master\quickstart-push-android\build\intermediates\pre-dexed\debug\ibmpush-1.0.1.20150311-1224-1e87ddc7b5bd189fa7d420e760e166ffae3b354f.jar" />
+    </item>
+
+</items>

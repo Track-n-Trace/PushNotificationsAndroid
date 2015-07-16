@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PushServiceQuickStart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Push Service Quick Start</string>
+    <string name="unregister">Unregister</string>
+    <string name="title_activity_rich_notification">RichNotification</string>
+    <string name="title_activity_login">Login</string>
+
+</resources>

@@ -1,0 +1,39 @@
+package com.ibm.mbaas.push.android.sample;
+
+import android.app.ProgressDialog;
+import android.os.AsyncTask;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.util.EntityUtils;
+import org.json.JSONObject;
+
+/**
+ * Created by Jasmeet on 7/13/2015.
+ */
+public class AuthCreds extends AsyncTask<Void,Void,String> {
+
+    public ProgressDialog mDialog;
+    public JSONObject jsonToSend = new JSONObject();
+    public String urlToPost;
+    public JSONObject responseStr;
+
+    @Override
+    protected String doInBackground(Void... params) {
+        try {
+            HttpClient httpclient = new DefaultHttpClient();
+            HttpPost httppost = new HttpPost(urlToPost);
+            httppost.setEntity(new StringEntity(jsonToSend.toString(), "UTF8"));
+            httppost.setHeader("Content-type", "application/json");
+            HttpResponse resp = httpclient.execute(httppost);
+            responseStr = new JSONObject(EntityUtils.toString(resp.getEntity()));
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        return null;
+    }
+}
